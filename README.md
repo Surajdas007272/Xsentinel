@@ -29,7 +29,7 @@ This tool works smoothly on **Termux, Linux, and Kali Linux** environments.
 ## 🚀 How to Use XSentinel
 
 ### 🛠️ Termux (Android):
-[Click here to copy commands](https://copy.sh/) or manually follow:
+
 
 ```bash
 pkg update && pkg install git python -y
