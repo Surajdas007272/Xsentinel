@@ -25,3 +25,15 @@ This tool works smoothly on **Termux, Linux, and Kali Linux** environments.
 - Kali Linux
 - Ubuntu / Debian
 - Any Linux with Python 3
+
+## 🚀 How to Use XSentinel
+
+### 🛠️ Termux (Android):
+[Click here to copy commands](https://copy.sh/) or manually follow:
+
+```bash
+pkg update && pkg install git python -y
+git clone https://github.com/<your-username>/XSentinel.git
+cd XSentinel
+pip install requests
+python xsentinel.py
