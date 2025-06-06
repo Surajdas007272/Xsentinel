@@ -42,7 +42,7 @@ python xsentinel.py
 
 
 sudo apt update && sudo apt install git python3 -y
-git clone https://github.com/<your-username>/XSentinel.git
+git clone https://github.com/Surajdas007272/Xsentinel.git
 cd XSentinel
 pip3 install requests
 python3 xsentinel.py
