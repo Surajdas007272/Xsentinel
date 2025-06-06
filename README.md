@@ -36,7 +36,7 @@ pkg update && pkg install git python -y
 git clone https://github.com/Surajdas007272/Xsentinel.git
 cd XSentinel
 pip install requests
-python xsentinel.py
+python xsentinel.py ```
 
 ### 🛠️🐧 Kali Linux / Ubuntu / Other Linux:
 
