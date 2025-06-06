@@ -41,7 +41,8 @@ python xsentinel.py
 ### 🛠️🐧 Kali Linux / Ubuntu / Other Linux:
 
 
-```sudo apt update && sudo apt install git python3 -y
+```bash
+sudo apt update && sudo apt install git python3 -y
 git clone https://github.com/Surajdas007272/Xsentinel.git
 cd XSentinel
 pip3 install requests
