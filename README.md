@@ -31,12 +31,13 @@ This tool works smoothly on **Termux, Linux, and Kali Linux** environments.
 ### 🛠️ Termux (Android):
 
 
+
 ```bash
 pkg update && pkg install git python -y
 git clone https://github.com/Surajdas007272/Xsentinel.git
-cd XSentinel
+cd Xsentinel
 pip install requests
-python xsentinel.py
+python Xsentinel.py
 ```
 
 ### 🛠️🐧 Kali Linux / Ubuntu / Other Linux:
@@ -45,7 +46,7 @@ python xsentinel.py
 ```bash
 sudo apt update && sudo apt install git python3 -y
 git clone https://github.com/Surajdas007272/Xsentinel.git
-cd XSentinel
+cd Xsentinel
 pip3 install requests
-python3 xsentinel.py
+python3 Xsentinel.py
 ```
