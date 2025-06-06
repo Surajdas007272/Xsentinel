@@ -33,7 +33,7 @@ This tool works smoothly on **Termux, Linux, and Kali Linux** environments.
 
 ```bash
 pkg update && pkg install git python -y
-git clone https://github.com/Surajdas007272/Xsentinel.git
+git clone https://github.com/Surajdas007272/Xsentinel
 cd XSentinel
 pip install requests
 python xsentinel.py
@@ -44,7 +44,7 @@ python xsentinel.py
 
 ```bash
 sudo apt update && sudo apt install git python3 -y
-git clone https://github.com/Surajdas007272/Xsentinel.git
+git clone https://github.com/Surajdas007272/Xsentinel
 cd XSentinel
 pip3 install requests
 python3 xsentinel.py
